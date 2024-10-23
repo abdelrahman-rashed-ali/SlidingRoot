@@ -1,0 +1,30 @@
+<!-- res/drawable/selected_border.xml -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Background shape -->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="#F5F5DC" />
+            <corners android:radius="50dp" />
+        </shape>
+    </item>
+    <!-- White stroke -->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="@android:color/transparent" />
+            <stroke
+                android:width="7dp"
+                android:color="@android:color/white" />
+            <corners android:radius="50dp" />
+        </shape>
+    </item>
+    <!-- Black stroke -->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="@android:color/transparent" />
+            <stroke
+                android:width="3dp"
+                android:color="#565656" />
+            <corners android:radius="50dp" />
+        </shape>
+    </item>
+</layer-list>

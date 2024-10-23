@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "369732004649",
+    "project_id": "slidingroot",
+    "storage_bucket": "slidingroot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369732004649:android:c558e7099ee9fd6fa32538",
+        "android_client_info": {
+          "package_name": "com.example.slidingroot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369732004649-93hjqp75js4fa4sgm5d8evqufmbi4chv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.slidingroot",
+            "certificate_hash": "bf5e15f84d2a118831c9b9110f44374674276442"
+          }
+        },
+        {
+          "client_id": "369732004649-ghm4q07ba08dg4fcvpfkva0kjj303s4j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMcnPPZf5mYC3HwXYgxBEj_m7GOFBNuVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369732004649-ghm4q07ba08dg4fcvpfkva0kjj303s4j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

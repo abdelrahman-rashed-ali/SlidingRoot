@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    >
+
+    <group
+        android:checkableBehavior="single"
+        android:id="@+id/group1">
+
+        <item
+            android:id="@+id/frag_home"
+            android:icon="@drawable/selector_home"
+            android:title="Home"
+            />
+
+        <item
+            android:id="@+id/frag_favourite"
+            android:icon="@drawable/selector_favourites"
+            android:title="Favourties"
+            
+            />
+
+        <item
+            android:id="@+id/frag_calender"
+            android:icon="@drawable/selector_calender"
+            android:title="Calender"
+
+            />
+
+        <item
+            android:id="@+id/frag_about"
+            android:icon="@drawable/selector_about"
+            android:title="About"
+            />
+
+
+
+    </group>
+
+    <group android:id="@+id/group2">
+        <item
+            android:id="@+id/logout"
+            android:icon="@drawable/logout_icon"
+            android:title="Log out"
+            />
+    </group>
+
+
+</menu>
